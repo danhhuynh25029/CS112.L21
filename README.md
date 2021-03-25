@@ -26,3 +26,6 @@
 * Số thứ tự chủ đề : 9
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
 ## Bài làm
+* Week 3
+** BOT - Trạm thu phí
+** T
