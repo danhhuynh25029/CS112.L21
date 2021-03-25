@@ -3,7 +3,7 @@
 1. [Bài toán][1]
 2. [Lời giải][2]
 3. [Code mẫu][3]
-4. Jupyter-Notebook
+4. [Jupyter-Notebook][4]
 ## BOT
 1. [Bài toán][5]
 2. [Lời giải][6]
