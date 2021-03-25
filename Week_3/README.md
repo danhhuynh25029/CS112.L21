@@ -8,7 +8,7 @@
 1. [Bài toán][5]
 2. [Lời giải][6]
 3. [Code mẫu][7]
-4. [Jupyter-Notebook][8]
+4. [Jupyter-Notebook][8] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LrUbHaBGtlVoT5PPGOe1Fwxj5zlcrWeL?authuser=1)
 
 [5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.pdf
 
