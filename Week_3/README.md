@@ -5,9 +5,9 @@
 3. [Code mẫu][3]
 4. Jupyter-Notebook
 ## BOT
-1. Bài toán[5]
-2. Lời giải[6]
-3. Code mẫu[7]
+1. [Bài toán][5]
+2. [Lời giải][6]
+3. [Code mẫu][7]
 4. Jupyter-Notebook
 
 [5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.pdf
