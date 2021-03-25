@@ -27,5 +27,5 @@
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
 ## Bài làm
 * Week 3
-** BOT - Trạm thu phí
-** T
+  * BOT - Trạm thu phí
+  * T
