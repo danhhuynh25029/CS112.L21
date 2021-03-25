@@ -26,9 +26,11 @@
 * Số thứ tự chủ đề : 9
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
 ## Bài làm
-* Week 3
+* [Week 3][0]
   * [BOT - Trạm thu phí][1]
   * [SEAWEED - Tảo biển][2]
+
+[0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
 [1]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/BOT
 
