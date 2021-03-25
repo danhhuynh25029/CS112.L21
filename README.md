@@ -6,7 +6,7 @@
 * [Giới thiệu về nhóm](#giới-thiệu-về-nhóm)
 
 * [Nội dung báo cáo](#nội-dung-báo-cáo)
-
+* [Bài làm](#bài-làm)
 ## Giới thiệu môn học
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
 * Mã môn học: CS112
@@ -25,3 +25,4 @@
 ## Nội dung báo cáo
 * Số thứ tự chủ đề : 9
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
+## Bài làm
