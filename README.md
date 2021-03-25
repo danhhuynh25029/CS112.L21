@@ -12,7 +12,8 @@
 * Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 ## Giới thiệu về nhóm
 * Số thứ tự nhóm : 10
-Tên nhóm : L21.N10
+* Tên nhóm : L21.N10
+*
 |  STT	| MSSV  	| Họ và Tên  	| Vai trò  	| Email  	| github  	| facebook  	|
 |---	|---	|---	|---	|---	|---	|---	|
 |  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Nhóm trưởng  	| 19521322@gm.uit.edu.vn  	| danhhuynh25029  	| danh115  	|
