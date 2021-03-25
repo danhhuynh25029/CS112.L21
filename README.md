@@ -3,9 +3,9 @@
 ## Nội Dung
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 
-* [Giới thiệu về nhóm](#giới-thiệu-về-nhớm)
+* [Giới thiệu về nhóm](#giới-thiệu-về-nhóm)
 
-* [Nội dung báo cáo](#gội-dung-báo-cáo)
+* [Nội dung báo cáo](#nội-dung-báo-cáo)
 
 ## Giới thiệu môn học
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
