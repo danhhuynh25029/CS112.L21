@@ -27,8 +27,8 @@
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
 ## Bài làm
 * Week 3
-  * BOT - Trạm thu phí[1]
-  * SEAWEED - Tảo biển[2]
+  * [BOT - Trạm thu phí][1]
+  * [SEAWEED - Tảo biển][2]
 
 [1]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/B
 
