@@ -1,9 +1,9 @@
 # CS112.L21-CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
 # ALGORITHM ANALYSIS AND DESIGN
 ## Nội Dung
-* [Giới thiệu môn học](#giới-thiệu-môn-học)
-* [Giới thiệu về nhóm](#giới-thiệu-về-nhớm)
-* [Nội dung báo cáo](#gội-dung-báo-cáo)
+* [Giới thiệu môn học](#giới-thiệu-môn-học)<br/>
+* [Giới thiệu về nhóm](#giới-thiệu-về-nhớm)<br/>
+* [Nội dung báo cáo](#gội-dung-báo-cáo)<br/>
 ## Giới thiệu môn học
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
 * Mã môn học: CS112
@@ -12,7 +12,7 @@
 * Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 ## Giới thiệu về nhóm
 * Số thứ tự nhóm : 10
-* Tên nhóm : L21.N10  
+* Tên nhóm : L21.N10<br/>
 |  STT	| MSSV  	| Họ và Tên  	| Vai trò  	| Email  	| github  	| facebook  	|
 |---	|---	|---	|---	|---	|---	|---	|
 |  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Nhóm trưởng  	| 19521322@gm.uit.edu.vn  	| danhhuynh25029  	| danh115  	|
