@@ -16,10 +16,12 @@
 
 [7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.py
 
-[8]:https://colab.research.google.com/drive/1LrUbHaBGtlVoT5PPGOe1Fwxj5zlcrWeL?authuser=1#scrollTo=kw8mYTt7ZEPZ
+[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.ipynb
 
 [1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.pdf
 
 [2]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.pdf
 
 [3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.py
+
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWED.ipynb
