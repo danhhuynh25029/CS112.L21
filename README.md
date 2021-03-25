@@ -18,7 +18,7 @@
 * Tên nhóm : L21.N10
 
 |  STT	| MSSV  	| Họ và Tên  	| Vai trò  	| Email  	|
-|---	|---	|--------------	|---	|---	|---	|---	|
+|---	|---	|--------------	|---	|---	|
 |  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Nhóm trưởng  	| 19521322@gm.uit.edu.vn  	|
 |  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Thành viên  	| 19521917@gm.uit.edu.vn  	|
 |  3	| 19521836  	|  Lê Quang Minh 	|  Thành viên 	| 19521836@gm.uit.edu.vn  	|
