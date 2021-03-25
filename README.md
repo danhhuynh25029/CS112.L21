@@ -18,10 +18,10 @@
 * Tên nhóm : L21.N10
 
 |  STT	| MSSV  	| Họ và Tên  	| Vai trò  	| Email  	| github  	| facebook  	|
-|---	|---	|---	|---	|---	|---	|---	|
+|---	|---	|--------------	|---	|---	|---	|---	|
 |  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Nhóm trưởng  	| 19521322@gm.uit.edu.vn  	| danhhuynh25029  	| danh115  	|
 |  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Thành viên  	| 19521917@gm.uit.edu.vn  	| nguyencute  	| nguyencute  	|
-|  	|   	|   	|   	|   	|   	|   	|
+|  3	| 19521836  	|  Lê Quang Minh 	|  Thành viên 	| 19521836@gm.uit.edu.vn  	| minh  	| minh  	|
 ## Nội dung báo cáo
 * Số thứ tự chủ đề : 9
 * Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
