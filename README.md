@@ -7,7 +7,7 @@
 
 * [Nội dung báo cáo](#gội-dung-báo-cáo)
 
-## Giới thiệu môn học
+## Giới thiệu môn học.(#giới-thiệu-môn-học)
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
 * Mã môn học: CS112
 * Mã lớp: CS112.L21
