@@ -24,4 +24,4 @@
 
 [3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.py
 
-[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWED.ipynb
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.ipynb
