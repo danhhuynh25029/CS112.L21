@@ -1,4 +1,4 @@
-# CS112.L21-Week3
+# CS112.L21-Week4
 ## H_index
 1. [Bài toán][1]
 2. [Code mẫu][3]
@@ -14,7 +14,7 @@
 
 [8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/Khoa_so/Khoa_so.ipynb
 
-[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-index/H_index.pdf
+[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-index/H-index.pdf
 
 [3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-index/H_index.py
 
