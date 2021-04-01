@@ -14,7 +14,7 @@
 
 [8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/Khoa_so/Khoa_so.ipynb
 
-[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-Index/H-index.pdf
+[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-Index/H-Index.pdf
 
 [3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H-Index/H_index.py
 
