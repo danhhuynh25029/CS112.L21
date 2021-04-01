@@ -1,27 +1,21 @@
 # CS112.L21-Week3
-## SEAWEED
+## H_index
 1. [Bài toán][1]
-2. [Lời giải][2]
-3. [Code mẫu][3]
-4. [Jupyter-Notebook][4] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1M0MyWEzB58amdiG4INasPGzHAGiLoIYN?usp=sharing)
-## BOT
+2. [Code mẫu][3]
+3. [Jupyter-Notebook][4] hoặc [![Open In Colab](https://colab.research.google.com/drive/1fkQ9khqrxZS4BiikklWJWLZTqevkIQML?usp=sharing)
+## Khóa số
 1. [Bài toán][5]
-2. [Lời giải][6]
-3. [Code mẫu][7]
-4. [Jupyter-Notebook][8] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LrUbHaBGtlVoT5PPGOe1Fwxj5zlcrWeL?usp=sharing)
+2. [Code mẫu][7]
+3. [Jupyter-Notebook][8] hoặc [![Open In Colab](https://colab.research.google.com/drive/1_4t2X7ZAdomxFj0VNVhyPL4utygQ6D8z?usp=sharing)
 
-[5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.pdf
+[5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/Khoa_so/Khoa_so.pdf
 
-[6]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.pdf
+[7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/Khoa_so/Khoa_so.py
 
-[7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/BOT.py
+[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/Khoa_so/Khoa_so.ipynb
 
-[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/BOT/Bot.ipynb
+[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H_index/H-index.pdf
 
-[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.pdf
+[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H_index/H_index.py
 
-[2]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.pdf
-
-[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.py
-
-[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.ipynb
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_4/H_index/H_index.ipynb
