@@ -33,7 +33,7 @@
 
 * [Week_4][3]
   * [H-Index][4]
-  * [Kh][5] 
+  * [Khoa_so][5] 
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
