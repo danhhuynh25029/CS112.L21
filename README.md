@@ -31,12 +31,18 @@
   * [BOT - Trạm thu phí][1]
   * [SEAWEED - Tảo biển][2]
 
-* [Week_4][0]
-  * [H-Index][1]
-  * [Kh][2] 
+* [Week_4][3]
+  * [H-Index][4]
+  * [Kh][5] 
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
 [1]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/BOT
 
 [2]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/SEAWEED
+
+[3]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4
+
+[4]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/H-Index
+
+[5]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/Khoa_so
