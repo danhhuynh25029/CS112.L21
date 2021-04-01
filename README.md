@@ -32,8 +32,8 @@
   * [SEAWEED - Tảo biển][2]
 
 * [Week_4][0]
- * [H-Index][1]
- * [Khoa so][2] 
+  * [H-Index][1]
+  * [Khoa so][2] 
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
