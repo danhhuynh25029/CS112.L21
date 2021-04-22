@@ -1,48 +1,21 @@
-# CS112.L21-CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
-# ALGORITHM ANALYSIS AND DESIGN
-## Nội Dung
-* [Giới thiệu môn học](#giới-thiệu-môn-học)
+# CS112.L21-Week5
+## Đổi mới
+1. [Bài toán][1]
+2. [Code mẫu][3]
+3. [Jupyter-Notebook][4] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oeCvMoL1x5OIqu6ftcuVZO8pbpxSir15?usp=sharing)
+## Số nguyên mới
+1. [Bài toán][5]
+2. [Code mẫu][7]
+3. [Jupyter-Notebook][8] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d-hvE9jq7Rb1TTLJ5Lfuyp3u-QjGbxuK?usp=sharing)
 
-* [Giới thiệu về nhóm](#giới-thiệu-về-nhóm)
+[5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.pdf
 
-* [Nội dung báo cáo](#nội-dung-báo-cáo)
-* [Bài làm](#bài-làm)
-## Giới thiệu môn học
-* Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
-* Mã môn học: CS112
-* Mã lớp: CS112.L21
-* Năm học: HK2 (2020 - 2021)
-* Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
-## Giới thiệu về nhóm
-* Số thứ tự nhóm : 10
-* Tên nhóm : L21.N10
+[7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.py
 
-|  STT	| MSSV  	| Họ và Tên  	| Vai trò  	| Email  	|
-|---	|---	|--------------	|---	|---	|
-|  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Nhóm trưởng  	| 19521322@gm.uit.edu.vn  	|
-|  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Thành viên  	| 19521917@gm.uit.edu.vn  	|
-|  3	| 19521836  	|  Lê Quang Minh 	|  Thành viên 	| 19521836@gm.uit.edu.vn  	|
-|  4	| 19521858  	|  Võ Tuấn Minh 	|  Thành viên 	| 19521858@gm.uit.edu.vn  	|
-## Nội dung báo cáo
-* Số thứ tự chủ đề : 9
-* Tên chủ đè : Giới thiệu phương pháp thiết kế thuật toán: Dynamic programming (1)
-## Bài làm
-* [Week 3][0]
-  * [BOT - Trạm thu phí][1]
-  * [SEAWEED - Tảo biển][2]
+[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.ipynb
 
-* [Week_4][3]
-  * [H-Index][4]
-  * [Khoa_so][5] 
+[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.pdf
 
-[0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
+[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.py
 
-[1]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/BOT
-
-[2]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3/SEAWEED
-
-[3]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4
-
-[4]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/H-Index
-
-[5]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/Khoa_so
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.ipynb
