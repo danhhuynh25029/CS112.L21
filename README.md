@@ -52,6 +52,6 @@
 
 [6]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_5
 
-[7]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/Doimoi
+[7]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_5/Doimoi
 
-[8]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_4/Songuyenmoi
+[8]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_5/Songuyenmoi
