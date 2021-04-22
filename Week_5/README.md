@@ -8,14 +8,14 @@
 2. [Code mẫu][7]
 3. [Jupyter-Notebook][8] hoặc [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1d-hvE9jq7Rb1TTLJ5Lfuyp3u-QjGbxuK?usp=sharing)
 
-[5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.pdf
+[5]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/songuyenmoi.pdf
 
-[7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.py
+[7]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/songuyenmoi.py
 
-[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/Songuyenmoi.ipynb
+[8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Songuyenmoi/songuyenmoi.ipynb
 
-[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.pdf
+[1]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/doimoi.pdf
 
-[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.py
+[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/doimoi.py
 
-[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/Doimoi.ipynb
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_5/Doimoi/doimoi.ipynb
