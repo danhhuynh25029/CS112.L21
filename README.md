@@ -37,6 +37,9 @@
 * [Week_5][6]
   * [Dổi mới][7]
   * [Số nguyên mới][8]
+* [Week_6][9]
+  * [Wall][10]
+  * [Fraction][11]
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
@@ -55,3 +58,11 @@
 [7]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_5/Doimoi
 
 [8]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_5/Songuyenmoi
+
+[9]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_6
+
+[10]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_6/Wall
+
+[11]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_6/Fraction
+
+
