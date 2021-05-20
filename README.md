@@ -39,7 +39,7 @@
   * [Số nguyên mới][8]
 * [Week_6][9]
   * [Wall][10]
-  -[x] [Fraction][11]
+  -[x]Fraction[11]
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
