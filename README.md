@@ -41,7 +41,7 @@
   * [Wall][10]
   * [Fraction][11]
 
-- [x] [Bai thuyet trinh][100]
+- [x] [Sl][100]
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
