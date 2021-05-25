@@ -4,13 +4,12 @@ m = int(input())
 gothua = list(map(int,input().split()))
 l = min(hangrao)
 r = max(hangrao) + max(gothua)
+c = hangrao.copy()
+c.sort()
 if len(gothua) >= len(hangrao):
     r = min(hangrao) + max(gothua)
 else:
-    c = hangrao.copy()
-    c.sort()
-    index = len(hangrao)-len(gothua)
-    r = c[len(hangrao)-index]
+    r = c[len(hangrao)-(len(hangrao)-len(gothua))]
 def check(mid):
     i = 0
     j = 0
@@ -63,8 +62,8 @@ while l < r-1:
     test,vth,vtg,sl = check(docao)
     if test == 1:
         l = docao
-        reh = vth.copy()
-        reg = vtg.copy()
+        reh = vth
+        reg = vtg
         s = sl
     else:
         r = docao-1
