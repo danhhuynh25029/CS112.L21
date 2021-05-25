@@ -10,6 +10,6 @@
 
 [8]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_6/Fraction/Fraction.ipynb
 
-[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.py
+[3]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_6/Wall/Wall.py
 
-[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_3/SEAWEED/SEAWEED.ipynb
+[4]:https://github.com/danhhuynh25029/CS112.L21/blob/master/Week_6/Wall/Wall.ipynb
