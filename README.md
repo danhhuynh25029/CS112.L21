@@ -47,7 +47,7 @@
 
 |  STT	| MSSV  	| Họ và Tên  	| Phân công nhiệm vụ  	| Tiến độ  	|
 |---	|---	|--------------	|-------------------------------	|---	|
-|  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Bài tập wecode và hackkerank<br>Chia nhiệm vụ cho các thành viên<br>Tìm hiểu bài thuyết trình<br>Viết   	| Tốt  	|
+|  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Bài tập wecode và hackkerank<br>Chia nhiệm vụ cho các thành viên<br>Tìm hiểu bài thuyết trình<br>Viết b   	| Tốt  	|
 |  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Bài tập wecode và hackkerank<br>Tìm hiểu bài thuyết trình | Tốt  	|
 |  3	| 19521836  	|  Lê Quang Minh 	|  Tạo sile powperpoint<br>tham gia trả lời câu hỏi của các nhóm<br> 	|  Tốt 	|
 |  4	| 19521858  	|  Võ Tuấn Minh 	| Thuyết trình<br>Bài tập hackkerank,wecode  	| Tốt  	|
