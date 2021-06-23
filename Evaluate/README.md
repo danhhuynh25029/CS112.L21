@@ -27,3 +27,5 @@
 * Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt .Tụi em hứa sau này sẽ rút kinh nghiệm cho các bài thuyết trình sau
 ### Đạt được:
 * Qua môn học này tụi em cảm giác như gần lại với nhau hơn.Tuy có đôi lúc có những cuộc cãi vã xô đẩy nhưng sau cơn mưa trời lại sáng,tụi em ngày càng hiểu nhau hơn và hiểu được tính cách của các bạn.Qua môn học này giúp cho tụi em không chỉ về kiến thức mà còn về cách giao tiếp nói chuyện giữa các thành viên trong nhóm.Tuy nhóm em cũng chưa hoàn thành tốt được các bài tập thầy giao cho và cũng như bài tập về nha của các nhóm nhưng tụi em đã có được tình bạn.
+### Tự đánh giá về nhóm:
+* Qua đây tụi em đã cố gắng làm bài tập của thầy cũng như bài tập về nhà nên tụi em tự đánh giá bản thân nhóm tụi em cũng đã được 1 phần nào đó nhiệm vụ mà thầy giao
