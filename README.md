@@ -67,10 +67,10 @@
 
 |  STT	| MSSV  	| Họ và Tên  	| Phân công nhiệm vụ  	| Tiến độ  	|
 |---	|---	|--------------	|-------------------------------------	|---	|
-|  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Bài tập wecode và hackkerank<br>Chia nhiệm vụ cho các thành viên  	| Tốt  	|
-|  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Bài tập wecode và hackkerank | Tốt  	|
-|  3	| 19521836  	|  Lê Quang Minh 	|  Bài tập hackkerank 	|  Tốt 	|
-|  4	| 19521858  	|  Võ Tuấn Minh 	| Bài tập hackkerank  	| Tốt  	|
+|  1 	|  19521322 	| Huỳnh Ngọc Công Danh  	| Bài tập wecode và hackkerank<br>Chia nhiệm vụ cho các thành viên<br>Tham gia thảo luận với các nhóm  	| Tốt  	|
+|  2	|  19521917 	| Nguyễn Ngọc Thái Nguyên  	| Bài tập wecode và hackkerank<br>Tham gia thảo luận với các nhóm | Tốt  	|
+|  3	| 19521836  	|  Lê Quang Minh 	|  Bài tập hackkerank và wecode<br>Tham gia thảo luận với các nhóm 	|  Tốt 	|
+|  4	| 19521858  	|  Võ Tuấn Minh 	| Bài tập hackkerank và wecode<br>Tham gia thảo luận với các nhóm 	| Tốt  	|
 
 [0]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_3
 
