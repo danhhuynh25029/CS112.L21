@@ -22,6 +22,6 @@
 | Nhóm 18 |  7  |
 
 ### Đánh giá buổi thuyết trình :
-* Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận
+* Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận.Các bạn có tham gia vào bài tập thêm về nhà và đưa ra ý kiên trong buổi thảo luận,để buổi thảo luận thêm phần đặc sắc hơn
 ### Chưa làm được:
 * Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt .Tụi em hứa sau này sẽ rút kinh nghiệm cho các bài thuyết trình sau
