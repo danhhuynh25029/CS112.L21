@@ -54,7 +54,7 @@
 |  3	| 19521836  	|  Lê Quang Minh 	|  hackkerank 	|  Tốt 	|
 |  4	| 19521858  	|  Võ Tuấn Minh 	| hackkerank   	| Tốt  	|
 
-#### Trong lúc s thuyết trình
+#### Tron lúc soạn b thuyết trình
 
 |  STT	| MSSV  	| Họ và Tên  	| Phân công nhiệm vụ  	| Tiến độ  	|
 |---	|---	|--------------	|-------------------------------------	|---	|
