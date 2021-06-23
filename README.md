@@ -42,6 +42,7 @@
   * [Fraction][11]
 
 - [x] [Slide thuyết trình][100]
+- [ ] [Đánh giá][101]
 
 ### Bảng phân công nhiệm vụ các thành viên
 
@@ -97,4 +98,6 @@
 [11]:https://github.com/danhhuynh25029/CS112.L21/tree/master/Week_6/Fraction
 
 [100]:https://github.com/danhhuynh25029/CS112.L21/tree/master/SlideDynamicProgramming
+
+[101]:
 
