@@ -21,3 +21,7 @@
 | Nhóm 17 |  làm chung chủ đề |
 | Nhóm 18 |  7  |
 
+### Đánh giá buổi thuyết trình :
+* Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận
+### Chưa làm được:
+* Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt .Tụi em hứa sau này sẽ rút kinh nghiệm cho các bài thuyết trình sau
