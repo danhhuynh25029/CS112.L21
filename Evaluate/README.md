@@ -14,12 +14,12 @@
 | Nhóm 10 |  Nhỏm của mình |
 | Nhóm 11|  8.5 điểm nhoa |
 | Nhóm 12 |  7 điểm nhoa |
-| Nhóm 13 |  7 điểm nhoa |
+| Nhóm 13 |  làm chung chủ đề |
 | Nhóm 14 |  8.5 điểm nhoa |
 | Nhóm 15 |  8.5 điểm nhoa |
 | Nhóm 16 |  8.5 điểm nhoa |
-| Nhóm 17 |  làm chung chủ đề |
-| Nhóm 18 |  7  |
+| Nhóm 17 |  8.5 điểm nhoa |
+| Nhóm 18 |  7 điểm nhoa  |
 
 ### Đánh giá buổi thuyết trình :
 * Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận.Các bạn có tham gia vào bài tập thêm về nhà và đưa ra ý kiên trong buổi thảo luận,để buổi thảo luận thêm phần đặc sắc hơn
