@@ -25,3 +25,5 @@
 * Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận.Các bạn có tham gia vào bài tập thêm về nhà và đưa ra ý kiên trong buổi thảo luận,để buổi thảo luận thêm phần đặc sắc hơn
 ### Chưa làm được:
 * Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt .Tụi em hứa sau này sẽ rút kinh nghiệm cho các bài thuyết trình sau
+### Đạt được:
+* Qua môn học này tụi em cảm giác như gần lại với nhau hơn.Tuy có đôi lúc có những cuộc cãi vã xô đẩy nhưng sau cơn mưa trời lại sáng,tụi em ngày càng hiểu nhau hơn và hiểu được tính cách của các bạn.Qua môn học này giúp cho tụi em không chỉ về kiến thức mà còn về cách giao tiếp nói chuyện giữa các thành viên trong nhóm.Tuy nhóm em cũng chưa hoàn thành tốt được các bài tập thầy giao cho và cũng như bài tập về nha của các nhóm nhưng tụi em đã có được tình bạn.
