@@ -11,7 +11,7 @@
 | Nhóm 7 |  8.5 điểm nhoa |
 | Nhóm 8 |  7 điểm nhoa |
 | Nhóm 9 |  9.5 điểm nhoa |
-| Nhóm 10 |  Nhỏm của mình |
+| Nhóm 10 |  tự đánh giá nhóm |
 | Nhóm 11|  8.5 điểm nhoa |
 | Nhóm 12 |  7 điểm nhoa |
 | Nhóm 13 |  làm chung chủ đề |
@@ -29,3 +29,4 @@
 * Qua môn học này tụi em cảm giác như gần lại với nhau hơn.Tuy có đôi lúc có những cuộc cãi vã xô đẩy nhưng sau cơn mưa trời lại sáng,tụi em ngày càng hiểu nhau hơn và hiểu được tính cách của các bạn.Qua môn học này giúp cho tụi em không chỉ về kiến thức mà còn về cách giao tiếp nói chuyện giữa các thành viên trong nhóm.Tuy nhóm em cũng chưa hoàn thành tốt được các bài tập thầy giao cho và cũng như bài tập về nha của các nhóm nhưng tụi em đã có được tình bạn.
 ### Tự đánh giá về nhóm:
 * Qua đây tụi em đã cố gắng làm bài tập của thầy cũng như bài tập về nhà nên tụi em tự đánh giá bản thân nhóm tụi em cũng đã được 1 phần nào đó nhiệm vụ mà thầy giao
+* Em xin tự đánh giá về nhóm em được : 7/10 điểm
