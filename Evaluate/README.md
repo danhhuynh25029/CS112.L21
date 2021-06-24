@@ -22,15 +22,15 @@
 | Nhóm 18 |  7 điểm nhoa  |
 
 ### Đánh giá buổi thuyết trình :
-:heavy_check_mark: Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận.Các bạn có tham gia vào bài tập thêm về nhà và đưa ra ý kiên trong buổi thảo luận,để buổi thảo luận thêm phần đặc sắc hơn
+:heavy_check_mark:  Nhìn chung các bạn tham gia rất tích cực có đóng góp xây dựng bài và thảo luận.Các bạn có tham gia vào bài tập thêm về nhà và đưa ra ý kiên trong buổi thảo luận,để buổi thảo luận thêm phần đặc sắc hơn
 ### Chưa làm được:
-:x: Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt
+:x:  Nhóm em còn thiếu sót nhiều thừ và việc chia nội dung với các nhóm chưa tốt
 
-:x: Việc chọn màu sác slide cũng chưa được tốt
+:x:  Việc chọn màu sác slide cũng chưa được tốt
 
 => Tụi em hứa sau này sẽ rút kinh nghiệm cho các bài thuyết trình sau
 ### Đạt được:
-:heavy_check_mark: Qua môn học này tụi em cảm giác như gần lại với nhau hơn.Tuy có đôi lúc có những cuộc cãi vã xô đẩy nhưng sau cơn mưa trời lại sáng,tụi em ngày càng hiểu nhau hơn và hiểu được tính cách của các bạn.Qua môn học này giúp cho tụi em không chỉ về kiến thức mà còn về cách giao tiếp nói chuyện giữa các thành viên trong nhóm.Tuy nhóm em cũng chưa hoàn thành tốt được các bài tập thầy giao cho và cũng như bài tập về nha của các nhóm nhưng tụi em đã có được tình bạn.
+:heavy_check_mark:  Qua môn học này tụi em cảm giác như gần lại với nhau hơn.Tuy có đôi lúc có những cuộc cãi vã xô đẩy nhưng sau cơn mưa trời lại sáng,tụi em ngày càng hiểu nhau hơn và hiểu được tính cách của các bạn.Qua môn học này giúp cho tụi em không chỉ về kiến thức mà còn về cách giao tiếp nói chuyện giữa các thành viên trong nhóm.Tuy nhóm em cũng chưa hoàn thành tốt được các bài tập thầy giao cho và cũng như bài tập về nha của các nhóm nhưng tụi em đã có được tình bạn.
 ### Tự đánh giá về nhóm:
 * Qua đây tụi em đã cố gắng làm bài tập của thầy cũng như bài tập về nhà nên tụi em tự đánh giá bản thân nhóm tụi em cũng đã được 1 phần nào đó nhiệm vụ mà thầy giao
 * Em xin tự đánh giá về nhóm em được : 7/10 điểm
