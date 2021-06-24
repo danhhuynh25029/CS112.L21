@@ -1,4 +1,5 @@
 # Đánh giá các nhóm
+* Cách đánh giá là có làm bài tâp hackkerank hoặc phát biểu trong buổi thảo luận thì đều sẽ có điểm
 
 | Tên nhóm   |      Đánh giá      |
 |----------|:-------------:|
